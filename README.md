@@ -38,7 +38,7 @@ A Python project using file handling to store, delete, update and view student r
 
 🔹 E-Commerce Store Frontend (HTML, CSS, JS)
 Fully functional UI with product grid, search, filtering, sorting, localStorage cart, dark mode & toast notifications.
-➤ 
+➤ https://github.com/barsharajput/ecommerce-store
 
 🔗 Connect With Me
 

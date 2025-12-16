@@ -1,47 +1,73 @@
-👋 Hi, I'm Barsha Singh
-🚀 AI | Cloud | Cybersecurity Enthusiast
+# 👋 Hi, I'm Barsha Singh  
 
-💻 Frontend Developer (React + JavaScript) | Python Developer
-📊 Interested in Data Analytics | Networking | Cloud Systems
+🚀 **AI | Cloud | Cybersecurity Enthusiast**  
+💻 **Frontend Developer (React & JavaScript)** | 🐍 **Python Developer**
 
-Passionate about building real-world projects, writing clean UI, and solving practical problems — not just writing code.
+I enjoy building **real-world projects**, creating **clean and responsive UIs**, and solving **practical problems** — not just writing code.
 
-🌟 About Me
+---
 
-🎓 CSE Undergraduate at Darbhanga College of Engineering
+## 🌟 About Me
+- 🎓 CSE Undergraduate at **Darbhanga College of Engineering**
+- 🔐 Exploring **Cybersecurity** & **Cloud Computing (AWS / GCP)**
+- 🌦 Building **AI, Web, and Python automation projects**
+- 🤝 Open to **internships, open-source contributions, and collaborations**
 
-🔐 Exploring Cybersecurity & Cloud (AWS/GCP)
+---
 
-🌦 Building AI, Web, and Python automation projects
+## 🛠️ Tech Stack
 
-🤝 Open to internships, open-source, and collaborations
+### 🎨 Frontend
+- HTML • CSS • JavaScript  
+- React.js • Responsive UI
 
-🛠️ Tech Stack
-Frontend
+### ⚙️ Backend & Programming
+- Python • Java • C++
 
-HTML • CSS • JavaScript • React.js • Responsive UI
+### 🧰 Tools & Technologies
+- Git • GitHub  
+- REST APIs  
+- Power BI • Excel  
+- SQL (Basics)  
+- Cloud Computing (AWS / GCP – Learning)  
+- IoT & Cybersecurity Basics  
+- CCNA Networking (Fundamentals)
 
-Backend & Programming
+---
 
-Python • Java • C++
+## 📌 Featured Projects
 
-Tools & Technologies
+### 🔹 Student Management System (Python)
+A Python-based project using file handling to **add, update, delete, and view student records**.
 
-Git • GitHub • REST APIs • Power BI • Excel • SQL Basics
-Cloud Computing • IoT
-Cybersecurity Basics • CCNA Networking
-📌 Featured Projects
+🔗 https://github.com/barsharajput/Student_Management_System-
 
-🔹 Student Management System (Python)
-A Python project using file handling to store, delete, update and view student records.
-➤ https://github.com/barsharajput/Student_Management_System-
+---
 
-🔹 E-Commerce Store Frontend (HTML, CSS, JS)
-Fully functional UI with product grid, search, filtering, sorting, localStorage cart, dark mode & toast notifications.
-➤ https://github.com/barsharajput/ecommerce-store
+### 🔹 E-Commerce Store Frontend (HTML, CSS, JavaScript)
+A fully functional frontend with:
+- Product grid
+- Search, filter & sort
+- LocalStorage cart
+- Dark mode
+- Toast notifications
 
-🔗 Connect With Me
+🔗 https://github.com/barsharajput/ecommerce-store
 
-📧 Email: barsharajput22@gmail.com
+---
 
-🌐 LinkedIn: https://www.linkedin.com/in/barsha-singh-9193a229b/
+### 🔹 Modern Landing Page (Next.js)
+Responsive landing page built with **Next.js & Tailwind CSS**, deployed on **Vercel**.
+
+🔗 https://landing-page-nu-roan-78.vercel.app/
+
+---
+
+## 🔗 Connect With Me
+- 📧 **Email:** barsharajput22@gmail.com  
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/barsha-singh-9193a229b/
+
+---
+
+⭐ *Always learning, always building.*
+

@@ -53,6 +53,8 @@ A fully functional frontend with:
 - Toast notifications
 
 🔗 https://github.com/barsharajput/ecommerce-store
+🔗 Live Demo:  
+https://ecommerce-store-c43iq6f82-barsha-singhs-projects.vercel.app/
 
 ---
 

@@ -51,8 +51,9 @@ A fully functional frontend with:
 - LocalStorage cart
 - Dark mode
 - Toast notifications
-- 
+
 🔗 GitHub Repository:  https://github.com/barsharajput/ecommerce-store
+
 🔗 Live Demo: https://ecommerce-store-c43iq6f82-barsha-singhs-projects.vercel.app/
 
 ---

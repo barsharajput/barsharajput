@@ -37,6 +37,22 @@ I enjoy building **real-world projects**, creating **clean and responsive UIs**,
 
 ## 📌 Featured Projects
 
+### 🔹 VeriNews AI – Explainable Fake News Detection System (Flask + ML)
+
+An AI-powered system that detects Fake vs Real news using Machine Learning and Explainable AI.
+
+• Real/Fake/Uncertain prediction with confidence score  
+• Interactive dashboard (Gauge & Donut charts)  
+• SHAP-based explainability (influential words)  
+• Sensational score & risk recommendation  
+• User authentication & history tracking  
+• Dark mode enabled UI  
+
+🔗 GitHub Repository: https://github.com/barsharajput/fake-news-detector  
+📄 Research Paper: https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205
+
+---
+
 ### 🔹 Student Management System (Python)
 A Python-based project using file handling to **add, update, delete, and view student records**.
 

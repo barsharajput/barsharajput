@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Barsha%20Singh&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" /><h1 align="center">Hi 👋, I'm Barsha Singh</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | Full Stack Developer | AI Enthusiast</h3><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Java+%7C+Python+%7C+AI%2FML;Building+Real+World+Projects;Open+to+Internships+🚀" />
-</p>---
+</p>
 
 🧠 About Me
 
@@ -18,13 +18,17 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/barsha-singh-9193a229b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/barsharajput"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>---
+</p>
+
+---
 
 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,mongodb,mysql,git,github" />
-</p>---
+</p>
+
+---
 
 🚀 Featured Projects
 
@@ -79,19 +83,25 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=barsharajput&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=barsharajput&theme=tokyonight" />
-</p>---
+</p>
+
+---
 
 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=barsharajput&theme=react-dark" />
-</p>---
+</p>
+
+---
 
 🏆 Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=barsharajput&theme=tokyonight&row=1&column=6" />
-</p>---
+</p>
+
+---
 
 👀 Profile Views
 

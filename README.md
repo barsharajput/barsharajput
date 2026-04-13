@@ -55,9 +55,9 @@
 
 ---
 
-## 🧠 Fake News Detection System 🔥
+🧠 Fake News Detection System 🔥
 
-> 🚀 An advanced AI-powered system designed to detect misinformation using Machine Learning, BERT, and Explainable AI techniques  
+«🚀 An advanced AI-powered system designed to detect misinformation using Machine Learning, BERT, and Explainable AI techniques»
 
 - ⚙️ **Tech Stack:** Python, Scikit-learn, Pandas, NLP, BERT, Chart.js  
 

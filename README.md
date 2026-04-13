@@ -80,8 +80,8 @@
 
 ## 📊 GitHub Stats
 
-![Barsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=barsharajput&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=barsharajput&theme=default)
+![Barsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=barsharajput&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=barsharajput)
 
 ---
 

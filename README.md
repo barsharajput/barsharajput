@@ -55,26 +55,30 @@
 
 ---
 
-🧠 Fake News Detection System 🔥
+## 🧠 Fake News Detection System 🔥
 
-«AI-powered system to detect fake news using Machine Learning & NLP»
+> 🚀 An advanced AI-powered system designed to detect misinformation using Machine Learning, BERT, and Explainable AI techniques  
 
-- ⚙️ Tech: Python, Scikit-learn, Pandas, NLP
-- 🔍 Features:
-  - Fake vs Real news classification
-  - Data preprocessing & feature extraction
-  - Model training & evaluation
-- 🎯 Goal: Detect misinformation with high accuracy
+- ⚙️ **Tech Stack:** Python, Scikit-learn, Pandas, NLP, BERT, Chart.js  
 
-🔗 GitHub: https://github.com/barsharajput/fake-news-detector
+- 🔍 **Key Features:**
+  - 🧠 Multi-model detection using Logistic Regression & Naive Bayes  
+  - 🤖 Advanced prediction using BERT (context-aware NLP)  
+  - 📊 Real vs Fake probability score with confidence analysis  
+  - 📈 Interactive dashboard with charts & visual insights  
+  - 🧠 Explainable AI (TF-IDF, SHAP, influential words analysis)  
+  - 🚨 Sensational news detection with risk scoring  
+  - 🔐 User authentication system (Login/Register)  
+  - 🌙 Modern UI with dark mode & responsive design  
 
----
+- 🧪 **Research-Backed Development:**  
+  Integrated with my published research work focusing on NLP-based fake news detection  
 
-📄 Research Paper
+- 🎯 **Impact:**  
+  Helps users identify misleading information with transparency, confidence, and intelligent recommendations  
 
-«Research work in Computer Science / AI domain»
-
-- 🔗 View: https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205
+- 🔗 **GitHub:** https://github.com/barsharajput/fake-news-detector  
+- 📄 **Research Paper:** https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205  
 
 ---
 

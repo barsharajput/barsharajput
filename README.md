@@ -80,8 +80,9 @@
 
 ## 📊 GitHub Stats
 
-![Barsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=barsharajput&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=barsharajput)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=barsharajput&theme=radical" />
+</p>
 
 ---
 
@@ -90,12 +91,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=barsharajput&theme=react-dark" />
 </p>
-
----
-
-## 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=barsharajput)
 
 ---
 

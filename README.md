@@ -1,327 +1,130 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Barsha%20Singh&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Published%20Researcher&descAlignY=56&descSize=18&fontColor=fff" width="100%"/>
+# Hi, I'm Barsha Singh 👋
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=false&width=700&lines=👋+Hello+World!+I'm+Barsha+Singh;🤖+Building+AI+that+fights+misinformation;🔍+VeriNews+AI+%7C+94%25+BERT+Accuracy;🌐+Full+Stack+%7C+Flask+%7C+NLP+%7C+Docker;📄+Published+Researcher+%7C+IJRTI+Journal;🚀+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
-  </a>
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/barsha-singh-9193a229b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:barsharajput22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/barsharajput">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/barshasingh">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=barsharajput&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</div>
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6EE7F7&width=600&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Full+Stack+Developer;AI+%7C+ML+%7C+NLP+Enthusiast;Published+Researcher+%F0%9F%93%84;Open+to+Internships+%F0%9F%9A%80)](https://github.com/barsharajput)
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+| | |
+|---|---|
+| **Hello there!** I'm **Barsha Singh**, a passionate Computer Science student from India. As an aspiring Software Engineer specializing in **AI/ML and Full Stack Development**, I'm dedicated to creating intelligent solutions that solve real-world problems. My technical journey spans across **Deep Learning, NLP, Backend Systems, and Cloud Deployment**, with a particular enthusiasm for building explainable AI applications. I have also published research on **NLP-based Fake News Detection** in the IJRTI Journal. | <img src="https://i.makeagif.com/media/8-18-2023/tuSsml.gif" width="300"/> |
 
-## 🧠 About Me
+### *❝ Code is not just syntax — it's the language of solutions. ❞*
 
-- 🎓 **B.Tech CSE Student** passionate about AI and real-world software
-- 🤖 Building AI-powered applications using **BERT, NLP & Deep Learning**
-- 🌐 Full Stack Developer with hands-on experience in **Flask & React**
+### About Me 🧑‍💻
+
+- 🔭 Currently working on **AI-powered web applications**
+- 🤖 Specialized in **BERT, NLP, Machine Learning & Deep Learning**
+- 🌐 Full Stack Developer with experience in **Flask, React & Node.js**
 - 📄 **Published Researcher** — NLP-based Fake News Detection (IJRTI Journal)
-- 💡 Interested in **Backend Systems, NLP, and Problem Solving**
-- 🚀 Currently open to **Internships & Collaborations**
-- 📫 Reach me: **barsharajput22@gmail.com**
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### AI / ML / NLP
-<p>
-  <img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-6EBF26?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+- 👯 Looking to collaborate on **AI/ML and Full Stack projects**
+- 💡 Always eager to learn new technologies and contribute to Open Source
+- 📫 Reach me at: **barsharajput22@gmail.com**
+- ⚡ Fun fact: I love building things that actually make a difference!
 
 ---
 
-## 🚀 Featured Projects
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> **Tech Stack**
+
+| | |
+|---|---|
+| **Languages** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br/><br/> **Frameworks** &nbsp; ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | **Databases** &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) <br/><br/> **Tools** &nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+
+| | |
+|---|---|
+| **AI / ML / NLP** &nbsp; ![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-6EBF26?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-7C3AED?style=flat-square) | **Web & Design** &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+---
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVlOTA1NzZjZWM1YzM0MThmNjI0ZWY1NzBhYjcwM2MxZTFhMzNhMSZlcT12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/i4jKnziqT6BqOrPgHN/giphy.gif" width="30"/> **Featured Projects**
 
 ---
 
 ### 🔍 VeriNews AI — Intelligent Fake News Detection System
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🟢 LIVE & DEPLOYED-barshasingh--verinews--ai.hf.space-6D28D9?style=for-the-badge"/>
-</div>
+> 🚀 An advanced AI-powered system to detect misinformation using **Machine Learning, BERT, and Explainable AI**
 
-> 🚀 An advanced AI-powered system designed to detect misinformation using **Machine Learning, BERT, and Explainable AI** techniques
+| | |
+|---|---|
+| 🌐 **Live Demo** | [barshasingh-verinews-ai.hf.space](https://barshasingh-verinews-ai.hf.space) |
+| 💻 **GitHub** | [github.com/barsharajput/verinews-ai](https://github.com/barsharajput/verinews-ai) |
+| 📄 **Research Paper** | [IJRTI2603205 — Read Full Paper](https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205) |
+| ☁️ **Deployed On** | Hugging Face Spaces — Docker + PostgreSQL (Neon) |
+| ⚙️ **Tech Stack** | Python · Flask · BERT · Scikit-learn · PostgreSQL · Docker · Tailwind CSS |
 
-<table>
-<tr>
-<td>
-
-**🌐 Live Demo**
-
-**💻 GitHub**
-
-**📄 Research Paper**
-
-**⚙️ Tech Stack**
-
-**☁️ Deployment**
-
-</td>
-<td>
-
-[barshasingh-verinews-ai.hf.space](https://barshasingh-verinews-ai.hf.space)
-
-[github.com/barsharajput/verinews-ai](https://github.com/barsharajput/verinews-ai)
-
-[IJRTI2603205 — Read Full Paper](https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205)
-
-`Python` `Flask` `BERT` `Scikit-learn` `PostgreSQL` `Docker` `Tailwind CSS`
-
-Hugging Face Spaces — Docker + PostgreSQL (Neon)
-
-</td>
-</tr>
-</table>
-
-#### 🤖 Model Performance
+**Model Performance:**
 
 | Model | Accuracy | Type |
 |:------|:--------:|:-----|
-| 🥇 BERT | **94%** | Deep Learning (Transformer) |
+| 🥇 BERT | **94%** | Deep Learning |
 | 🥈 Logistic Regression | **91%** | Machine Learning |
 | 🥉 Naive Bayes | **87%** | Machine Learning |
 
-#### ✨ Key Features
-
-| Feature | Description |
-|:--------|:------------|
-| 🔍 News Analysis | Analyze news via text input or URL scraping |
-| 🌐 Multi-Language | Supports Hindi and English inputs |
-| 🤖 Multi-Model AI | BERT + Logistic Regression + Naive Bayes |
-| 📊 Confidence Score | Percentage-based prediction with visual graphs |
-| 🧠 Explainable AI | SHAP values + keyword + sensational word detection |
-| 📈 Visualizations | Interactive dashboard charts and model comparison |
-| 🔐 Authentication | Secure login/register with password hashing |
-| 🕘 History Tracking | Personalized analysis history per user |
-| 📊 Analytics | Real vs Fake distribution and accuracy metrics |
-| 🌍 Source Verification | Trusted / Suspicious / Unknown classification |
-| ⚡ Real-Time | Fast prediction pipeline with optimized models |
-
-#### 🏗️ System Architecture
-```
-User Input (Text / URL)
-       │
-       ▼
-Content Extraction (BeautifulSoup)
-       │
-       ▼
-Language Detection & Translation (deep-translator)
-       │
-       ▼
-Text Preprocessing & NLTK Cleaning
-       │
-       ▼
- ┌─────┴──────┬────────────────┐
- ▼            ▼                ▼
-BERT    Logistic Reg.    Naive Bayes
- └─────┬──────┴────────────────┘
-       │
-       ▼
-Explainable AI + SHAP + Keywords
-       │
-       ▼
-Graph Visualization Generation
-       │
-       ▼
-PostgreSQL Database Storage
-       │
-       ▼
-Result Display + Analytics Dashboard
-```
+**Key Features:**
+- 🤖 Multi-model AI prediction — BERT + Logistic Regression + Naive Bayes
+- 🧠 Explainable AI using SHAP values and keyword highlighting
+- 🌐 Multi-language support — Hindi & English with auto-translation
+- 🔍 URL-based news extraction using BeautifulSoup web scraping
+- 📊 Interactive analytics dashboard with Real vs Fake distribution
+- 🔐 Secure user authentication with personalized history tracking
+- 🌍 Source trust verification — Trusted / Suspicious / Unknown
+- ⚡ Real-time prediction with confidence score and visual graphs
 
 ---
 
 ### 🏠 Smart PG Finder
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🟢 LIVE & DEPLOYED-pgbuddy--gycu.onrender.com-059669?style=for-the-badge"/>
-</div>
+> 🏠 A full-stack web application for **discovering and booking PG accommodations** seamlessly
 
-> 🏠 A full-stack web application for **discovering and booking PG accommodations** seamlessly across India
+| | |
+|---|---|
+| 🌐 **Live Demo** | [pgbuddy-gycu.onrender.com](https://pgbuddy-gycu.onrender.com/) |
+| 💻 **GitHub** | [github.com/barsharajput/smart_pg_finder](https://github.com/barsharajput/smart_pg_finder) |
+| ⚙️ **Tech Stack** | Flask · Python · HTML · CSS · JavaScript · SQLite |
 
-<table>
-<tr>
-<td>
-
-**🌐 Live Demo**
-
-**💻 GitHub**
-
-**⚙️ Tech Stack**
-
-</td>
-<td>
-
-[pgbuddy-gycu.onrender.com](https://pgbuddy-gycu.onrender.com/)
-
-[github.com/barsharajput/smart_pg_finder](https://github.com/barsharajput/smart_pg_finder)
-
-`Flask` `Python` `HTML` `CSS` `JavaScript` `SQLite`
-
-</td>
-</tr>
-</table>
-
-#### ✨ Key Features
-
-- 🔎 **Smart search & filtering** based on budget, location, and preferences
-- 🧾 **User authentication** — secure Login & Signup system
-- 🏠 **PG listing** with detailed view pages
-- ❤️ **Wishlist** and saved listings functionality
-- 📅 **Booking management** system
-- ⚡ **Dynamic rendering** using Flask + Jinja2 templates
-- 🎯 **Goal:** Simplify PG discovery and booking experience with a scalable backend
+**Key Features:**
+- 🔎 Smart search & filtering based on budget, location, and preferences
+- 🧾 User authentication — secure Login & Signup system
+- 🏠 PG listing with detailed view pages and images
+- ❤️ Wishlist and saved listings functionality
+- 📅 Complete booking management system
+- ⚡ Dynamic rendering using Flask + Jinja2 templates
 
 ---
 
-## 📄 Research Publication
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/> **Research Publication**
 
-<div align="center">
+> 📝 **NLP-Based Fake News Detection using Machine Learning and BERT**
+>
+> Published in **IJRTI — International Journal for Research Trends and Innovation**
+>
+> Focused on transformer-based models for misinformation detection with Explainable AI techniques
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║           📝 PUBLISHED RESEARCH PAPER                       ║
-║                                                              ║
-║   NLP-Based Fake News Detection using                        ║
-║   Machine Learning and BERT                                  ║
-║                                                              ║
-║   International Journal for Research Trends                  ║
-║   and Innovation — IJRTI                                     ║
-║                                                              ║
-║   Focus: Transformer-based models for                        ║
-║   misinformation detection with Explainable AI               ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![Read Full Paper](https://img.shields.io/badge/📄%20Read%20Full%20Paper-IJRTI2603205-0052CC?style=for-the-badge&logo=google-scholar&logoColor=white)](https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205)
-
-</div>
+[![Read Paper](https://img.shields.io/badge/📄%20Read%20Full%20Paper-IJRTI%202603205-0052CC?style=for-the-badge&logo=google-scholar&logoColor=white)](https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205)
 
 ---
 
-## 📊 GitHub Stats
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/> **GitHub Analytics**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barsharajput&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barsharajput&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
-</div>
+[![Barsha's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=barsharajput&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=1800)](https://github.com/barsharajput)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=barsharajput&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/barsharajput)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=barsharajput&theme=radical&hide_border=true" height="180"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=barsharajput&show_icons=true&hide_border=true&theme=dark&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4)](https://github.com/barsharajput)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=barsharajput&theme=darkhub&no-frame=true)](https://github.com/barsharajput)
 
 ---
 
-## 🏆 GitHub Trophies
+### Connect With Me
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barsharajput&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barsha-singh-9193a229b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barsharajput22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barsharajput)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/barshasingh)
 
----
+### Profile Views
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=barsharajput&theme=redical&hide_border=true&area=true"/>
-</div>
+[![](https://komarev.com/ghpvc/?username=barsharajput&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/barsharajput)
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/barsha-singh-9193a229b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:barsharajput22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-barsharajput22-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/barsharajput">
-    <img src="https://img.shields.io/badge/GitHub-barsharajput-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/barshasingh">
-    <img src="https://img.shields.io/badge/HuggingFace-barshasingh-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  </a>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<div align="center">
-  <b>⭐ Star my repositories if you find them helpful!</b><br/>
-  <sub>Made with ❤️ by Barsha Singh</sub>
-</div>
+Created with 🖤 by [Barsha Singh](https://github.com/barsharajput)

@@ -1,173 +1,327 @@
-<!-- Header Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Barsha%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Published%20Researcher&descAlignY=68&descSize=16&descColor=a0a0ff" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Barsha%20Singh&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Published%20Researcher&descAlignY=56&descSize=18&fontColor=fff" width="100%"/>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=print(%22Hello%2C+World!+I'm+Barsha+%F0%9F%91%8B%22);Building+AI+that+fights+misinformation+%F0%9F%94%8D;Flask+%7C+BERT+%7C+Full+Stack+%7C+NLP;Open+to+Internships+%F0%9F%9A%80" />
-</div>
-
-<br/>
-
----
-
-## `whoami`
-
-```json
-{
-  "name"      : "Barsha Singh",
-  "role"      : "B.Tech CSE Student",
-  "focus"     : ["AI/ML", "NLP", "Full Stack Development"],
-  "languages" : ["Python", "Java", "JavaScript"],
-  "published" : true,
-  "open_to"   : "Internships & Collaborations",
-  "contact"   : "barsharajput22@gmail.com"
-}
-```
-
----
-
-## Tech Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><sub>Python</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub>Java</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub>JavaScript</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="40"/><br/><sub>Flask</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub>React</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><sub>Node.js</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/><sub>HTML</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/><sub>CSS</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><sub>MySQL</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><sub>MongoDB</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/><sub>Docker</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><sub>Git</sub></td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/BERT-Transformers-7C3AED?style=flat-square&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-09A3D5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</div>
-
----
-
-## Featured Projects
-
-### 01 — VeriNews AI
-> *Detecting misinformation with the power of AI*
-
-```
-  Input News / URL  →  NLP Pipeline  →  BERT + ML Models  →  Explainable Result
-```
-
-<div align="left">
-  <img src="https://img.shields.io/badge/LIVE-barshasingh--verinews--ai.hf.space-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</div>
-
-| Model | Accuracy | Type |
-|:--|:--|:--|
-| BERT | **94%** | Deep Learning |
-| Logistic Regression | **91%** | Machine Learning |
-| Naive Bayes | **87%** | Machine Learning |
-
-**Stack:** `Python` `Flask` `BERT` `Scikit-learn` `PostgreSQL` `Docker` `Tailwind CSS` `HuggingFace`
-
-- Multi-model AI prediction with confidence scoring
-- Explainable AI using SHAP + keyword analysis
-- Hindi & English multi-language support
-- URL scraping + source trust verification
-- Interactive analytics dashboard
-- Deployed on Hugging Face Spaces with Docker + PostgreSQL
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://barshasingh-verinews-ai.hf.space)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/barsharajput/verinews-ai)
-[![Research Paper](https://img.shields.io/badge/Research%20Paper-0052CC?style=flat-square&logo=googledocs&logoColor=white)](https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205)
-
----
-
-### 02 — Smart PG Finder
-> *Simplifying PG discovery and booking across India*
-
-<div align="left">
-  <img src="https://img.shields.io/badge/LIVE-pgbuddy--gycu.onrender.com-10B981?style=for-the-badge&logo=render&logoColor=white"/>
-</div>
-
-**Stack:** `Flask` `Python` `HTML/CSS` `JavaScript` `SQLite`
-
-- Smart filtering by budget, location, and preferences
-- Complete booking management system
-- Wishlist and saved listings functionality
-- Secure login & registration system
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-10B981?style=flat-square&logo=vercel&logoColor=white)](https://pgbuddy-gycu.onrender.com/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/barsharajput/smart_pg_finder)
-
----
-
-## Research Publication
-
-<div align="center">
-
-> **NLP-Based Fake News Detection using Machine Learning and BERT**
->
-> *International Journal for Research Trends and Innovation — IJRTI*
->
-> [![Read Paper](https://img.shields.io/badge/Read%20Full%20Paper-IJRTI%202603205-0052CC?style=for-the-badge&logo=googledocs&logoColor=white)](https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=barsharajput&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barsharajput&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=barsharajput&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=barsharajput&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff"/>
-</div>
-
----
-
-## Connect
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=false&width=700&lines=👋+Hello+World!+I'm+Barsha+Singh;🤖+Building+AI+that+fights+misinformation;🔍+VeriNews+AI+%7C+94%25+BERT+Accuracy;🌐+Full+Stack+%7C+Flask+%7C+NLP+%7C+Docker;📄+Published+Researcher+%7C+IJRTI+Journal;🚀+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/barsha-singh-9193a229b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:barsharajput22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/barsharajput">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://huggingface.co/barshasingh">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=barsharajput&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</div>
+
+<br/>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+## 🧠 About Me
+
+- 🎓 **B.Tech CSE Student** passionate about AI and real-world software
+- 🤖 Building AI-powered applications using **BERT, NLP & Deep Learning**
+- 🌐 Full Stack Developer with hands-on experience in **Flask & React**
+- 📄 **Published Researcher** — NLP-based Fake News Detection (IJRTI Journal)
+- 💡 Interested in **Backend Systems, NLP, and Problem Solving**
+- 🚀 Currently open to **Internships & Collaborations**
+- 📫 Reach me: **barsharajput22@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### AI / ML / NLP
+<p>
+  <img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-6EBF26?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+### 🔍 VeriNews AI — Intelligent Fake News Detection System
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🟢 LIVE & DEPLOYED-barshasingh--verinews--ai.hf.space-6D28D9?style=for-the-badge"/>
+</div>
+
+> 🚀 An advanced AI-powered system designed to detect misinformation using **Machine Learning, BERT, and Explainable AI** techniques
+
+<table>
+<tr>
+<td>
+
+**🌐 Live Demo**
+
+**💻 GitHub**
+
+**📄 Research Paper**
+
+**⚙️ Tech Stack**
+
+**☁️ Deployment**
+
+</td>
+<td>
+
+[barshasingh-verinews-ai.hf.space](https://barshasingh-verinews-ai.hf.space)
+
+[github.com/barsharajput/verinews-ai](https://github.com/barsharajput/verinews-ai)
+
+[IJRTI2603205 — Read Full Paper](https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205)
+
+`Python` `Flask` `BERT` `Scikit-learn` `PostgreSQL` `Docker` `Tailwind CSS`
+
+Hugging Face Spaces — Docker + PostgreSQL (Neon)
+
+</td>
+</tr>
+</table>
+
+#### 🤖 Model Performance
+
+| Model | Accuracy | Type |
+|:------|:--------:|:-----|
+| 🥇 BERT | **94%** | Deep Learning (Transformer) |
+| 🥈 Logistic Regression | **91%** | Machine Learning |
+| 🥉 Naive Bayes | **87%** | Machine Learning |
+
+#### ✨ Key Features
+
+| Feature | Description |
+|:--------|:------------|
+| 🔍 News Analysis | Analyze news via text input or URL scraping |
+| 🌐 Multi-Language | Supports Hindi and English inputs |
+| 🤖 Multi-Model AI | BERT + Logistic Regression + Naive Bayes |
+| 📊 Confidence Score | Percentage-based prediction with visual graphs |
+| 🧠 Explainable AI | SHAP values + keyword + sensational word detection |
+| 📈 Visualizations | Interactive dashboard charts and model comparison |
+| 🔐 Authentication | Secure login/register with password hashing |
+| 🕘 History Tracking | Personalized analysis history per user |
+| 📊 Analytics | Real vs Fake distribution and accuracy metrics |
+| 🌍 Source Verification | Trusted / Suspicious / Unknown classification |
+| ⚡ Real-Time | Fast prediction pipeline with optimized models |
+
+#### 🏗️ System Architecture
+```
+User Input (Text / URL)
+       │
+       ▼
+Content Extraction (BeautifulSoup)
+       │
+       ▼
+Language Detection & Translation (deep-translator)
+       │
+       ▼
+Text Preprocessing & NLTK Cleaning
+       │
+       ▼
+ ┌─────┴──────┬────────────────┐
+ ▼            ▼                ▼
+BERT    Logistic Reg.    Naive Bayes
+ └─────┬──────┴────────────────┘
+       │
+       ▼
+Explainable AI + SHAP + Keywords
+       │
+       ▼
+Graph Visualization Generation
+       │
+       ▼
+PostgreSQL Database Storage
+       │
+       ▼
+Result Display + Analytics Dashboard
+```
+
+---
+
+### 🏠 Smart PG Finder
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🟢 LIVE & DEPLOYED-pgbuddy--gycu.onrender.com-059669?style=for-the-badge"/>
+</div>
+
+> 🏠 A full-stack web application for **discovering and booking PG accommodations** seamlessly across India
+
+<table>
+<tr>
+<td>
+
+**🌐 Live Demo**
+
+**💻 GitHub**
+
+**⚙️ Tech Stack**
+
+</td>
+<td>
+
+[pgbuddy-gycu.onrender.com](https://pgbuddy-gycu.onrender.com/)
+
+[github.com/barsharajput/smart_pg_finder](https://github.com/barsharajput/smart_pg_finder)
+
+`Flask` `Python` `HTML` `CSS` `JavaScript` `SQLite`
+
+</td>
+</tr>
+</table>
+
+#### ✨ Key Features
+
+- 🔎 **Smart search & filtering** based on budget, location, and preferences
+- 🧾 **User authentication** — secure Login & Signup system
+- 🏠 **PG listing** with detailed view pages
+- ❤️ **Wishlist** and saved listings functionality
+- 📅 **Booking management** system
+- ⚡ **Dynamic rendering** using Flask + Jinja2 templates
+- 🎯 **Goal:** Simplify PG discovery and booking experience with a scalable backend
+
+---
+
+## 📄 Research Publication
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║           📝 PUBLISHED RESEARCH PAPER                       ║
+║                                                              ║
+║   NLP-Based Fake News Detection using                        ║
+║   Machine Learning and BERT                                  ║
+║                                                              ║
+║   International Journal for Research Trends                  ║
+║   and Innovation — IJRTI                                     ║
+║                                                              ║
+║   Focus: Transformer-based models for                        ║
+║   misinformation detection with Explainable AI               ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Read Full Paper](https://img.shields.io/badge/📄%20Read%20Full%20Paper-IJRTI2603205-0052CC?style=for-the-badge&logo=google-scholar&logoColor=white)](https://ijrti.org/viewpaperforall.php?paper=IJRTI2603205)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barsharajput&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barsharajput&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=barsharajput&theme=radical&hide_border=true" height="180"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=barsharajput&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=barsharajput&theme=redical&hide_border=true&area=true"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/barsha-singh-9193a229b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:barsharajput22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-barsharajput22-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/barsharajput">
+    <img src="https://img.shields.io/badge/GitHub-barsharajput-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/barshasingh">
+    <img src="https://img.shields.io/badge/HuggingFace-barshasingh-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=60&section=footer&text=Open%20to%20Internships%20%26%20Collaborations%20🚀&fontSize=16&fontColor=a0a0ff&animation=fadeIn"/>
-</div>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=barsharajput&label=Profile+Views&color=7C3AED&style=flat-square"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<div align="center">
+  <b>⭐ Star my repositories if you find them helpful!</b><br/>
+  <sub>Made with ❤️ by Barsha Singh</sub>
 </div>

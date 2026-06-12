@@ -19,6 +19,7 @@
 - 👯 Looking to collaborate on **AI/ML and Full Stack projects**
 - 💡 Always eager to learn new technologies and contribute to Open Source
 - 📫 Reach me at: **barsharajput22@gmail.com**
+- 📫 Portfolio: **https://barshasinghportfolio.netlify.app/**
 - ⚡ Fun fact: I love building things that actually make a difference!
 
 ---

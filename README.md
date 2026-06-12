@@ -1,6 +1,6 @@
 # Hi, I'm Barsha Singh 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6EE7F7&width=600&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Full+Stack+Developer;AI+%7C+ML+%7C+NLP+Enthusiast;Published+Researcher+%F0%9F%93%84;Open+to+Internships+%F0%9F%9A%80)](https://github.com/barsharajput)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6EE7F7&width=600&lines=Software+Engineer+%F0%9F%8E%93;Full+Stack+Developer;AI+%7C+ML+%7C+NLP+Enthusiast;Published+Researcher+%F0%9F%93%84;Open+to+Internships+%F0%9F%9A%80)](https://github.com/barsharajput)
 
 ---
 
